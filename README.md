@@ -5,11 +5,11 @@ A análise busca identificar padrões de precificação, características dos ve
 
 O projeto inclui etapas completas de pré-processamento de dados, análise exploratória e construção de um dashboard interativo no Power BI, permitindo explorar visualmente os principais insights obtidos.
 
-📊 Dataset
+Dataset
 
 O dataset utilizado neste projeto está disponível publicamente no Kaggle:
 
-🔗 Dataset:
+Dataset:
 
 Ele contém informações detalhadas sobre veículos usados, incluindo:
 
@@ -48,7 +48,7 @@ A análise busca responder algumas perguntas importantes:
 5. Carros com histórico completo de manutenção possuem maior valor?
 6. Existem diferenças de mercado entre os países analisados?
 
-Tecnologias Utilizadas
+Ferramentas Utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes ferramentas:
 
