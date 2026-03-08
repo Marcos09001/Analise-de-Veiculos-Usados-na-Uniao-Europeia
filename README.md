@@ -37,7 +37,7 @@ Histórico de manutenção
 
 Outras características técnicas
 
-🎯 Objetivos da Análise
+Objetivos da Análise
 
 A análise busca responder algumas perguntas importantes:
 
@@ -48,21 +48,84 @@ A análise busca responder algumas perguntas importantes:
 5. Carros com histórico completo de manutenção possuem maior valor?
 6. Existem diferenças de mercado entre os países analisados?
 
-🛠 Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes ferramentas:
 
-Python
-
-Pandas
-
-Jupyter Notebook
-
-Power BI
-
-GitHub
+1. Python
+2. Pandas
+3. Jupyter Notebook
+4. Power BI
+5. GitHub
 
 Bibliotecas principais utilizadas:
 
-pandas
-numpy
+1. pandas
+2. numpy
+
+Tratamento e Limpeza dos Dados
+
+Durante o processo de preparação dos dados foram realizadas as seguintes etapas:
+
+1. Tratamento de valores ausentes
+2. Padronização de tipos de dados
+3. Conversão de variáveis categóricas
+4. Criação de novas variáveis para análise
+5. Remoção de colunas irrelevantes
+6. Ajuste de inconsistências no dataset
+
+Essas etapas garantiram maior qualidade e confiabilidade para as análises realizadas.
+
+Análise Exploratória de Dados
+
+Foram realizadas análises exploratórias com o objetivo de compreender melhor a distribuição e as relações entre as variáveis do dataset.
+
+As principais análises incluem:
+
+1. Distribuição dos preços dos veículos
+2. Relação entre quilometragem e preço
+3. Impacto do número de proprietários no valor do veículo
+4. Comparação de preços entre diferentes tipos de combustível
+5. Análise de preços por tipo de carroceria
+6. Avaliação da influência do histórico de manutenção no valor do carro
+
+Dashboard Interativo
+
+Foi desenvolvido um dashboard interativo no Power BI para visualizar os principais insights do dataset.
+
+O dashboard apresenta:
+
+Visão geral do mercado de veículos usados
+
+Comparação de preços entre países
+
+Relação entre quilometragem e preço
+
+Impacto de características técnicas no valor dos veículos
+
+Distribuição de veículos por tipo de combustível e carroceria
+
+O objetivo do dashboard é facilitar a exploração dos dados e tornar os insights mais acessíveis.
+
+Principais Insights
+
+Alguns dos insights obtidos durante a análise incluem:
+
+Existe uma relação negativa entre quilometragem e preço: veículos com menor quilometragem tendem a possuir maior valor de mercado.
+
+Carros com histórico completo de manutenção apresentam preços médios mais elevados.
+
+Veículos com menos proprietários anteriores tendem a manter maior valor de revenda.
+
+A potência do motor e o tipo de carroceria também apresentam relação com o preço final dos veículos.
+
+O mercado apresenta diferenças entre países analisados.
+
+Possíveis Extensões do Projeto
+
+Algumas melhorias futuras que podem ser implementadas:
+
+1. Aplicação de modelos de Machine Learning para previsão de preços
+2. Expansão do dataset com novos países
+3. Inclusão de análise temporal mais detalhada
+4. Desenvolvimento de dashboards adicionais
