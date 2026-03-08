@@ -7,35 +7,35 @@ O projeto inclui etapas completas de pré-processamento de dados, análise explo
 
 Dataset
 
-O dataset utilizado neste projeto está disponível publicamente no Kaggle:
+O dataset utilizado neste projeto está disponível publicamente no Kaggle: https://www.kaggle.com/datasets/alemazz11/cars-europe
 
 Dataset:
 
 Ele contém informações detalhadas sobre veículos usados, incluindo:
 
-Modelo do veículo
+Modelo do veículo;
 
-País de venda
+País de venda;
 
-Preço
+Preço;
 
-Ano de fabricação
+Ano de fabricação;
 
-Quilometragem
+Quilometragem;
 
-Tipo de combustível
+Tipo de combustível;
 
-Tipo de transmissão
+Tipo de transmissão;
 
-Potência do motor
+Potência do motor;
 
-Número de proprietários anteriores
+Número de proprietários anteriores;
 
-Tipo de carroceria
+Tipo de carroceria;
 
-Histórico de manutenção
+Histórico de manutenção;
 
-Outras características técnicas
+Outras características técnicas.
 
 Objetivos da Análise
 
@@ -95,15 +95,15 @@ Foi desenvolvido um dashboard interativo no Power BI para visualizar os principa
 
 O dashboard apresenta:
 
-Visão geral do mercado de veículos usados
+Visão geral do mercado de veículos usados;
 
-Comparação de preços entre países
+Comparação de preços entre países;
 
-Relação entre quilometragem e preço
+Relação entre quilometragem e preço;
 
-Impacto de características técnicas no valor dos veículos
+Impacto de características técnicas no valor dos veículos;
 
-Distribuição de veículos por tipo de combustível e carroceria
+Distribuição de veículos por tipo de combustível e carroceria.
 
 O objetivo do dashboard é facilitar a exploração dos dados e tornar os insights mais acessíveis.
 
@@ -111,13 +111,13 @@ Principais Insights
 
 Alguns dos insights obtidos durante a análise incluem:
 
-Existe uma relação negativa entre quilometragem e preço: veículos com menor quilometragem tendem a possuir maior valor de mercado.
+Existe uma relação negativa entre quilometragem e preço: veículos com menor quilometragem tendem a possuir maior valor de mercado;
 
-Carros com histórico completo de manutenção apresentam preços médios mais elevados.
+Carros com histórico completo de manutenção apresentam preços médios mais elevados;
 
-Veículos com menos proprietários anteriores tendem a manter maior valor de revenda.
+Veículos com menos proprietários anteriores tendem a manter maior valor de revenda;
 
-A potência do motor e o tipo de carroceria também apresentam relação com o preço final dos veículos.
+A potência do motor e o tipo de carroceria também apresentam relação com o preço final dos veículos;
 
 O mercado apresenta diferenças entre países analisados.
 
@@ -129,3 +129,13 @@ Algumas melhorias futuras que podem ser implementadas:
 2. Expansão do dataset com novos países
 3. Inclusão de análise temporal mais detalhada
 4. Desenvolvimento de dashboards adicionais
+
+Autor
+
+Antonio Marcos
+
+Projeto desenvolvido como parte de estudos em Análise de Dados, Visualização de Dados e Business Intelligence.
+
+Contribuições
+
+Contribuições, sugestões ou melhorias são sempre bem-vindas.
